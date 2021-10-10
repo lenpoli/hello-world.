@@ -1,2 +1,2 @@
 # hello-world.
-polina
+polina учится тестированию
